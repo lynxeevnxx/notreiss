@@ -23,3 +23,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- exampleSite/content/blog/cara-profit-konsisten-di-forex.md
