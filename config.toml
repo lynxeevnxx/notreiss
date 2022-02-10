@@ -1,0 +1,202 @@
+######################## default configuration ####################
+baseURL = "https://notreiss.netlify.app/"
+title = "Notreiss"
+theme = "bookworm-light"
+# post paginationf
+paginate = "5"
+# post excerpt
+summaryLength = "40"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "notreiss" # get your shortname form here : https://disqus.com
+
+############################# Modules ##############################
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
+
+############################# Image Processing ##############################
+[imaging]
+quality = "95"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+############################## Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/line-awesome/css/line-awesome.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/instagram-feed/instagram-feed.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+# site variables
+[params.variables]  
+font_primary = "Mulish"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+h1 = "64px"
+h1_lg = "52px"
+h1_md = "42px"
+h2 = "38px"
+h2_md = "30px"
+h3 = "30px"
+h3_md = "24px"
+h4 = "24px"
+h5 = "18px"
+h6 = "16px"
+white = "#ffffff"
+black = "#000000"
+dark = "#02182b"
+gray = "#37434d"
+light = "#CAF0F8"
+color_primary = "#90E0EF"
+text_color = "##37434d"
+border_color = "#ACB9C4"
+body_color = "#000000"
+
+#################### default parameters ################################
+[params]
+logo = "images/Notreiss1.png"
+logo_width = "200px"
+favicon = "images/ico.png"
+# Meta data
+description = "Selamat datang di Notreiss, Notreiss adalah sebuah website literasi yang berisikan artikel - artikel seputaran dunia Digital, Economy, Technology & Social."
+author = "Notreiss"
+# contact form action
+contact_form_action = "https://airform.io/tegardm@email.com" # contact form works with https://formspree.io
+# search
+search = true
+# main section
+mainSections = ["blog"]
+# copyright
+copyright = "This Website Developed By [Tegar Deyustian](https://www.instagram.com/tegar_deyustian/) And Based From [Bookworm](https://gethugothemes.com/)"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Instagram feed
+[params.instafeed]
+enable = false
+instagram_user = "bookworm"
+access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+
+# Subscription
+[params.subscription]
+enable = false
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+title = "Subscribe Untuk Mendapatkan Artikel Bulanan Kami !"
+input_placeholder = "Enter your email..."
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+
+############################# Main Menu ########################
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+  
+[[menu.main]]
+name = "Tentang"
+url = "about/"
+weight = 3
+
+  
+
+[[menu.main]]
+weight = 4
+url = "#"
+name = "Lainnya"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Lainnya"
+  name = "Penulis"
+  url = "author/"
+  weight = 1
+  
+  [[menu.main]]
+  parent = "Lainnya"
+  name = "Tags"
+  url = "tags/"
+  weight = 2
+  
+  [[menu.main]]
+  parent = "Lainnya"
+  name = "Category"
+  url = "categories/"
+  weight = 3
+  
+  
+  [[menu.main]]
+  parent = "Lainnya"
+  name = "Tentang Saya"
+  url = "about-me/"
+  weight = 4
+  
+
+############################# Footer Menu ########################
+[[menu.footer]]
+name = "Tentang"
+url = "about/"
+weight = 1
+
+[[menu.footer]]
+name = "Penulis"
+url = "author/"
+weight = 2
+
+[[menu.footer]]
+name = "Tentang Saya"
+url = "about-me/"
+weight = 3
+
+[[menu.footer]]
+name = "Tags"
+url = "tags/"
+weight = 4
+
+# Social Icons
+[[params.social]]
+icon = "lab la-discord" # https://icons8.com/line-awesome
+url = "https://discord.gg/J8BeaBU6VR/"
+
+[[params.social]]
+icon = "lab la-twitter" # https://icons8.com/line-awesome
+url = "https://twitter.com/deyustian/"
+
+[[params.social]]
+icon = "lab la-instagram" # https://icons8.com/line-awesome
+url = "https://www.instagram.com/tegar_deyustian/"
+
+[[params.social]]
+icon = "lab la-github" # https://icons8.com/line-awesome
+url = "https://www.github.com/lynxeevnxx"
