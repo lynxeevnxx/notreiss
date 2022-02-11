@@ -9,8 +9,8 @@ fields:
   name: description
   label: description
 - type: image_gallery
-  name: images
-  label: images
+  name: image
+  label: image
 - type: datetime
   name: date
   label: date
