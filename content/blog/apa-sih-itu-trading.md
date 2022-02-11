@@ -1,7 +1,7 @@
 +++
 author = "Tegar Deyustian"
 categories = ["Artikel Deskriptif"]
-date = 2022-02-11T15:56:00Z
+date = 2022-02-11T16:07:00Z
 description = "Mungkin kalian sering mendengar istilah trading atau trader di kalayak umum atau pun berasal dari sumber informasi - informasi tertentu yang memperlihatkan keuntungan yang besar dari trading ini, tapi bener ga sih hal itu ? apakah itu benar mudah seperti yang kita lihat di iklan - iklan ? yuk kita bahas."
 draft = true
 images = ["/images/trading.jpeg"]
