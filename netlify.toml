@@ -6,6 +6,15 @@
   HUGO_VERSION = "0.87.0"
   HUGO_BASEURL = "/"
 
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
