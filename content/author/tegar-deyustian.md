@@ -16,5 +16,3 @@ social:
 
 ---
 Dalam dunia menulis bisa terbilang saya cukup baru jadi dengan adanya website ini saya ingin meningkatkan kemampuan saya dalam berliterasi terutama dengan menulis artikel yang tentunya untuk edukasi.
-
-![](https://cdn.discordapp.com/attachments/940152008634163221/940543264090628136/badgesExample.png "Contoh Badge Game RPG")
