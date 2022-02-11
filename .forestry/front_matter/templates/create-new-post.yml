@@ -23,3 +23,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/blog/apa-sih-itu-trading.md
