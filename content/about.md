@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Tentang Notreiss"
+description : "Notreiss memiliki tujuan untuk mengedukasi dan menjadi sumber informasi yang informatif sehingga mampu meningkatkan Sumber Daya Manusia."
 layout: "about"
 image: "images/banner.png"
 draft: false
