@@ -21,7 +21,7 @@
         {{ range $index, $element := split $url "/" }}
         {{ $.Scratch.Add "path" $element }}
         {{ if (ne $element "") }}
-        <li class="list-inline-item">/ &nbsp; <a href="{{ $.Scratch.Get `path` }}">{{ . | humanize }}</a></li>
+        <li class="list-inline-item">/ &nbsp; <a href="">{{ . | humanize }}</a></li>
         {{ $.Scratch.Add "path" "/" }}
         {{ end }}
         {{ end }}
