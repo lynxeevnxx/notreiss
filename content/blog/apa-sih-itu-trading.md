@@ -20,7 +20,7 @@ Trading disini itu kita melakukan perdagangan namun yang diperdagangkan itu bias
 
 #### Apakah trading itu beresiko ?
 
-Tentu saja, tidak ada trading yang tidak memiliki risiko, besar kecil risiko itu tergantung dengan "Risk Management" kita, karna sejatinya dalam trading keuntungan dan kerugian itu berbanding lurus yang mana berarti **"_low risk, low return and high risk, high return" _**jadi pastikan ilmu anda memadai sebelum benar - benar melakukan aktifitas trading anda.
+Tentu saja, tidak ada trading yang tidak memiliki risiko, besar kecil risiko itu tergantung dengan "Risk Management" kita, karna sejatinya dalam trading keuntungan dan kerugian itu berbanding lurus yang mana berarti  _"how risk, low return and high risk, high return"_ jadi pastikan ilmu anda memadai sebelum benar - benar melakukan aktifitas trading anda.
 
 #### Apakah trading itu halal ?
 
