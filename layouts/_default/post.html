@@ -1,4 +1,4 @@
-<article class="card post-card">
+<article class="card post-card border-left shadow-sm rounded px-3 box-shadow my-3">
   {{if .Params.image}}
   <a href="{{.Permalink}}">
     {{ partial "image.html" (dict "Src" .Params.image "Class" "w-100 h-auto rounded" "Alt" .Title) }}

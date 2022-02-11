@@ -3,11 +3,13 @@
 <section class="section-sm">
   <div class="container">
     <div class="row no-gutters justify-content-center">
+      <h1 class="my-20">Artikel - Artikel Terbaru Notreiss</h1>
+    
       <div class="col-lg-10">
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
           {{range $index, $items := $paginator.Pages}}
-          <div class="{{ if (eq $index 0) }}col-lg-12{{ else }}col-lg-6{{ end }}">
+          <div class="border-left shadow-sm rounded pt-3 box-shadow my-3 {{ if (eq $index 0) }}col-lg-12{{ else }}col-lg-6{{ end }}">
             {{.Render "post"}}
           </div>
           {{end}}

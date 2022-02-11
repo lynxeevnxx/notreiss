@@ -36,5 +36,5 @@ Dalam dunia menulis bisa terbilang saya cukup baru jadi dengan adanya website in
 
 
 {{< notice "note" >}}
-  Terimakasih sudah mengunjungi website ini jika kalian ingin memberikan dukungan, kontribusi, saran & kritik bisa hubungi saya melalui Social Media yang ada dengan senang hati saya terima.
+  Terimakasih sudah mengunjungi website ini jika kalian ingin memberikan dukungan, kontribusi, saran & kritik bisa hubungi saya melalui Social Media yang ada.
 {{< /notice >}}

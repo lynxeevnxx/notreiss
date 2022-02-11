@@ -2,7 +2,7 @@
 title: "Tentang Notreiss"
 description : "Notreiss memiliki tujuan untuk mengedukasi dan menjadi sumber informasi yang informatif sehingga mampu meningkatkan Sumber Daya Manusia."
 layout: "about"
-image: "images/banner.png"
+image: "images/banner1.jpg"
 draft: false
 
 #caption
@@ -57,7 +57,7 @@ Notreiss memiliki tujuan untuk mengedukasi dan menjadi sumber informasi yang inf
 {{< /collapse >}}
 
 {{< collapse "Dengan Technology apa website ini dibangun ?" >}}
-  Website ini dibangun dengan framework Hago dan Juga css preprocessor SCSS serta vanilla javascript sebagai base programming language nya.
+  Website ini dibangun dengan framework Hugo dan Juga css preprocessor SCSS serta vanilla javascript sebagai base programming language nya.
 {{< /collapse >}}
 
 {{< collapse "Kenapa namanya Notreiss ?" >}}

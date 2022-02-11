@@ -78,7 +78,7 @@ body_color = "#000000"
 #################### default parameters ################################
 [params]
 logo = "images/Notreiss1.png"
-logo_width = "200px"
+logo_width = "170px"
 favicon = "images/ico.png"
 # Meta data
 description = "Selamat datang di Notreiss, Notreiss adalah sebuah website literasi yang berisikan artikel - artikel seputaran dunia Digital, Economy, Technology & Social."
@@ -120,47 +120,47 @@ expire_days = 2
 
 ############################# Main Menu ########################
 [[menu.main]]
-name = "Home"
+name = "Artikel"
 url = "/"
 weight = 1
   
 [[menu.main]]
 name = "Tentang"
 url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
 weight = 3
 
+[[menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 4
   
 
 [[menu.main]]
-weight = 4
+weight = 5
 url = "#"
 name = "Lainnya"
 hasChildren = true
 
+
+  
   [[menu.main]]
   parent = "Lainnya"
   name = "Penulis"
   url = "author/"
   weight = 1
   
-  [[menu.main]]
-  parent = "Lainnya"
-  name = "Tags"
-  url = "tags/"
-  weight = 2
-  
-  [[menu.main]]
-  parent = "Lainnya"
-  name = "Category"
-  url = "categories/"
-  weight = 3
-  
+
   
   [[menu.main]]
   parent = "Lainnya"
   name = "Tentang Saya"
   url = "about-me/"
-  weight = 4
+  weight = 2
   
 
 ############################# Footer Menu ########################
