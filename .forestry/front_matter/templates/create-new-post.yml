@@ -8,9 +8,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: image_gallery
-  name: image
-  label: image
 - type: datetime
   name: date
   label: date
@@ -23,5 +20,10 @@ fields:
 - type: list
   name: categories
   label: categories
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
 pages:
 - content/blog/apa-sih-itu-trading.md
