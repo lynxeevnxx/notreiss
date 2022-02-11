@@ -4,6 +4,20 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/author
+  label: Author Real
+  create: all
+  match: "**/*"
+  templates:
+  - create-new-author
+- type: directory
+  path: content/blog
+  label: Blog Real
+  create: all
+  match: "**/*"
+  templates:
+  - create-new-post
 - type: heading
   label: Blog
 - type: document
@@ -61,7 +75,7 @@ sections:
 - type: document
   path: exampleSite/config.toml
   label: Configuration
-upload_dir: exampleSite/assets/images
+upload_dir: assets/images/post
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
