@@ -19,4 +19,4 @@ Selamat datang di artikel pertama notreiss, notreiss adalah website informatif y
 
 terimakasi sudah mengunjungi website notreiss
 
-aaaaa
+![](https://cdn.discordapp.com/attachments/940152008634163221/940543264090628136/badgesExample.png)
