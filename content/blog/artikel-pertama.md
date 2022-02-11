@@ -18,5 +18,3 @@ categories:
 Selamat datang di artikel pertama notreiss, notreiss adalah website informatif yang berisikan artikel - artikel yang bisa kalian baca secara gratis
 
 terimakasi sudah mengunjungi website notreiss
-
-![](https://cdn.discordapp.com/attachments/940152008634163221/940543264090628136/badgesExample.png)
