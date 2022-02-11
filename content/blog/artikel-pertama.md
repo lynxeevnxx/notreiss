@@ -1,7 +1,7 @@
 ---
 title: Artikel Pertama
 description: Selamat datang di artikel pertama di notreiss
-image: images/post/02.jpg
+image: images/post/trading.jpg
 date: 2021-01-25T11:33:57.000+06:00
 author: Tegar Deyustian
 tags:
