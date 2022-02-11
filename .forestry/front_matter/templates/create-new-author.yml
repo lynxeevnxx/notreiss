@@ -24,5 +24,3 @@ fields:
   - type: text
     name: link
     label: link
-pages:
-- content/author/raymond-astafi.md
