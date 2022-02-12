@@ -76,7 +76,7 @@ sections:
   path: exampleSite/config.toml
   label: Configuration
 upload_dir: assets/images/post
-public_path: "/images"
+public_path: assets/images/post
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
