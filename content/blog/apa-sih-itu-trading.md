@@ -5,7 +5,7 @@ date = 2022-02-12T16:07:00Z
 description = "Mungkin kalian sering mendengar istilah trading atau trader di kalayak umum atau pun berasal dari sumber informasi - informasi tertentu yang memperlihatkan keuntungan yang besar dari trading ini, tapi bener ga sih hal itu ? apakah itu benar mudah seperti yang kita lihat di iklan - iklan ? yuk kita bahas."
 image = "images/post/trading.jpg"
 tags = ["Keuangan", "Ekonomi", "Trading"]
-title = "Apa sih itu trading?"
+title = "Apa sih itu trading ?"
 
 +++
 ### Apa sih itu trading ?
