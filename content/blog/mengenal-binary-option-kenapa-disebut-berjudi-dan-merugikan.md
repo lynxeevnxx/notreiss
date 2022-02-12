@@ -1,17 +1,17 @@
 +++
 author = "Tegar Deyustian"
-categories = []
+categories = ["Artikel Deskriptif"]
 date = 2022-02-11T20:02:00Z
-description = ""
+description = "Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang \"Binary Option\" serta tentang affiliator dari platform trading yang menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas."
 draft = true
 image = "/images/binary.jpg"
 tags = ["Finansial", "Binary Option", "Trading"]
 title = "Mengenal binary option, kenapa disebut berjudi dan merugikan ?"
 
 +++
-Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang "Binary Option" serta tentang affiliator dari platform trading namun menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas.
+Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang "Binary Option" serta tentang affiliator dari platform trading yang menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas.
 
-> Oke disini saya akan coba membahas mengenai binary option berdasarkan  perspective dan penilaian saya pribadi
+> Oke disini saya akan coba membahas mengenai binary option berdasarkan  perspektif dan penilaian saya pribadi
 
 #### Apa sebenarnya "Binary Option" ?
 
@@ -25,11 +25,11 @@ Resiko di binary option itu sangatlah tinggi menurut saya pribadi karena dari ya
 
 lalu hal lain yang saya anggap sangat tidak menguntungkan bagi trader adalah ketika kita win kita hanya mendapatkan 80% dari keuntungan total sedangkan ketika kita loss kita akan kehilangan 100% menurut saya lebih baik bermain di kasino yang memiliki persentase 100% dan 100%.
 
-Dan hal terakhir yang saya tidak sukai ketika kita melakukan buy or sell dan harga bergerak naik turun kita itu tidak bisa melakukan "_cut loss"_ sebelum waktu dari _"timeframe"_ yang kita pilih selesai misal kita melakukan buy di timeframe 5 menit maka kita tidak punya kendali terhadap saldo kita sebelum 5 menit kedepan sehingga ketika analisa kita salah maka kerugian tidak bisa kita hentikan.
+Dan hal terakhir yang saya tidak sukai ketika kita melakukan buy or sell lalu harga bergerak naik turun kita itu tidak bisa melakukan "_cut loss"_ sebelum waktu dari _"timeframe"_ yang kita pilih selesai misal kita melakukan buy di timeframe 5 menit maka kita tidak punya kendali terhadap saldo kita sebelum 5 menit kedepan sehingga ketika analisa kita salah maka kerugian tidak bisa kita hentikan.
 
 #### Kenapa binary option disamakan dengan judi ?
 
-Sebenarnya banyak hal teknis untuk menjelaskan kenapa binary option disamakan dengan judi tapi saya akan coba jelaskan secara sederhana mungkin.  
+Sebenarnya banyak hal teknis untuk menjelaskan kenapa binary option disamakan dengan judi tapi saya akan coba jelaskan secara sesederhana mungkin.  
   
 **Ada 3 hal yang menurut saya serupa :**  
 Contoh kita ambil judi bola dalam judi bola kita nanti akan melakukan bet atau taruhan terhadap salah satu dari dua tim yang berlaga dan ini dapat disamakan ketika kita memilih harga akan naik atau turun mirip bukan rasio nya 50 : 50.   
