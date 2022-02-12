@@ -3,10 +3,9 @@ author = "Tegar Deyustian"
 categories = ["Artikel Deskriptif"]
 date = 2022-02-11T20:02:00Z
 description = "Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang \"Binary Option\" serta tentang affiliator dari platform trading yang menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas."
-draft = true
 image = "images/post/binary.jpg"
 tags = ["Finansial", "Binary Option", "Trading"]
-title = "Mengenal binary option, kenapa disebut berjudi dan merugikan ?-(copy)"
+title = "Mengenal binary option, kenapap disebut berjudi dan merugikan ?-(copy)"
 
 +++
 Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang "Binary Option" serta tentang affiliator dari platform trading yang menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas.
