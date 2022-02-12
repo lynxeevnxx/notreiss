@@ -2,7 +2,7 @@
 author = "Tegar Deyustian"
 categories = ["Artikel Deskriptif"]
 date = 2022-02-11T16:07:00Z
-description = "Akhir- akhir ini lagi ramai diperbincangkan dan muncul di berita - berita tentang \"Binary Option\" serta tentang affiliator dari platform trading yang menerapkan system binary option dalam platformnya, tapi bener ga sih kalo binary option itu merugikan ? apakah benar ini disebut judi ? mari kita bahas."
+description = "Mungkin kalian sering mendengar istilah trading atau trader di kalayak umum atau pun berasal dari sumber informasi - informasi tertentu yang memperlihatkan keuntungan yang besar dari trading ini, tapi bener ga sih hal itu ? apakah itu benar mudah seperti yang kita lihat di iklan - iklan ? yuk kita bahas."
 image = "images/post/trading.jpg"
 tags = ["Keuangan", "Ekonomi", "Trading"]
 title = "Apa sih itu trading ?"
