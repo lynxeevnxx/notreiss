@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       {{range .RegularPages }}
-      <div class="border-left shadow-sm rounded pt-3 box-shadow m-3 col-lg-4 col-sm-6 mb-4">
+      <div class=" shadow-sm rounded pt-3 box-shadow m-3 col-lg-4 col-sm-6 mb-4">
         {{ if .Params.image }}
         <a class="d-inline-block" href="{{.Permalink}}">
           {{ partial "image.html" (dict "Src" .Params.image "Size" "150x150" "Class" "img-fluid rounded" "Alt" .Title) }}

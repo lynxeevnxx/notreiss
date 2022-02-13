@@ -1,14 +1,12 @@
 +++
 author = "Tegar Deyustian"
-categories = ["Artikel Deskriptif"]
+categories = ["Artikel"]
 date = 2022-02-11T16:07:00Z
 description = "Mungkin kalian sering mendengar istilah trading atau trader di kalayak umum atau pun berasal dari sumber informasi - informasi tertentu yang memperlihatkan keuntungan yang besar dari trading ini, tapi bener ga sih hal itu ? apakah itu benar mudah seperti yang kita lihat di iklan - iklan ? yuk kita bahas."
-image = "images/post/trading.jpg"
-tags = ["Keuangan", "Trading"]
+image = "images/post/trading.jpeg"
+tags = ["Trading"]
 title = "Apa sih itu trading ?"
 +++
-
-### Apa sih itu trading ?
 
 Mungkin kalian sering mendengar istilah trading atau trader di kalayak umum atau pun berasal dari sumber informasi - informasi tertentu yang memperlihatkan keuntungan yang besar dari trading ini, tapi bener ga sih hal itu ? apakah itu benar mudah seperti yang kita lihat di iklan - iklan ? yuk kita bahas.
 
@@ -20,8 +18,9 @@ Trading disini itu kita melakukan perdagangan namun yang diperdagangkan itu bias
 
 #### Apakah trading itu beresiko ?
 
-Tentu saja, tidak ada trading yang tidak memiliki risiko, besar kecil risiko itu tergantung dengan "Risk Management" kita, karna sejatinya dalam trading keuntungan dan kerugian itu berbanding lurus yang mana berarti  _"how risk, low return and high risk, high return"_ jadi pastikan ilmu anda memadai sebelum benar - benar melakukan aktifitas trading anda.
+Tentu saja, tidak ada trading yang tidak memiliki risiko, besar kecil risiko itu tergantung dengan "Risk Management" kita, karna sejatinya dalam trading keuntungan dan kerugian itu berbanding lurus yang mana berarti  _"low risk, low return and high risk, high return"_ jadi pastikan ilmu anda memadai sebelum benar - benar melakukan aktifitas trading anda.
 
-#### Apakah trading itu halal ?
+#### Darimana keuntungan trading ?
+Sama seperti aktifitas perdagangan di pasar terdapat penawaran dan permintaan di trading intrument pun juga begitu kita akan membeli barang diharga tertentu saat ini dengan harapan harga akan berubah sesuai hasil analisa kita dan akan menjual barang itu lagi.
 
-MUI sendiri sudah menghalalkan aktifitas trading ini namun dengan syarat aset yang diperjual belikan jelas dan ada barangnya, dan juga trading yang dimaksudkan halal adalah yg bersifat SPOT trading yang mana aktifitas transaksi uang dan barangnya dilakukan langsung dan tunai tentunya.
+hanya saja menariknya dalam trading ini kita akan berdagan dipasar yang memiliki likuiditas (kepadatan transaksi) yang sangat besar contoh dalam pasar forex yang sifatnya global pergerakan harga sangatlah cepat karena besarnya volume jual beli barang. 

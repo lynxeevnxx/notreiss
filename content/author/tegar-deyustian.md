@@ -7,12 +7,12 @@ description: Dalam dunia menulis bisa terbilang saya cukup baru jadi dengan adan
   website ini saya ingin meningkatkan kemampuan saya dalam berliterasi terutama dengan
   menulis artikel yang tentunya untuk edukasi.
 social:
-- icon: la-facebook-f
-  link: https://facebook.com
+- icon: la-github
+  link: https://www.github.com/lynxeevnxx
 - icon: la-twitter
-  link: https://twitter.com
-- icon: la-linkedin-in
-  link: https://linkedin.com
+  link: https://twitter.com/deyustian/
+- icon: la-instagram
+  link: https://www.instagram.com/tegar_deyustian/
 
 ---
 Dalam dunia menulis bisa terbilang saya cukup baru jadi dengan adanya website ini saya ingin meningkatkan kemampuan saya dalam berliterasi terutama dengan menulis artikel yang tentunya untuk tujuan edukasi.
