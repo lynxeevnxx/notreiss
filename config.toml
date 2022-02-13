@@ -94,7 +94,7 @@ copyright = "This Website Developed By [Tegar Deyustian](https://www.instagram.c
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Instagram feed

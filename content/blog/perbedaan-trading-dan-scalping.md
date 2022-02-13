@@ -1,7 +1,7 @@
 ---
 title: "Perbedaan Scalping Dan Trading"
 description: "sering kali kita melihat atau mendengar tetang dua profesi ini dalam dunia trading dan mungkin buat kalian yang masih awam masih bingung tentang dua hal ini di artikel kali ini saya akan coba menjelaskan nya secara umum dan sederhana."
-image: "images/post/scalptrade.jpg"
+image: "images/post/hand.jpg"
 date:  2022-02-13T14:57:58+07:00
 author: "Tegar Deyustian"
 tags: ["Scalping", "Trading"]
