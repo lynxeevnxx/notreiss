@@ -5,8 +5,8 @@
   </a>
   {{end}}
   <div class="card-body">
-    <ul class="card-meta list-inline">
-      <li class="list-inline-item">
+    <ul class="card-meta list-inline mb-2">
+      <li class="list-inline-item mb-2">
         {{ with site.GetPage (.Params.Author | urlize | lower) }}
         <a href="{{.Permalink}}" class="card-meta-author">
           {{if .Params.image}}
