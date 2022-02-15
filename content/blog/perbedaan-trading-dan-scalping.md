@@ -11,7 +11,7 @@ draft: false
  Sering kali kita melihat atau mendengar tetang dua profesi ini dalam dunia trading dan mungkin buat kalian yang masih awam masih bingung tentang dua hal ini di artikel kali ini saya akan coba menjelaskan nya secara umum dan sederhana.
 
 #### Apa itu Scalping dan Trading
-Sebenarnya **[Trading](https://notreiss.netlify.app/tags/keuangan/)** sendiri sudah sempat saya bahas jadi singkatnya trading adalah suatu aktifitas jual beli sebuah asset tertentu dengan mengandalkan analisa terhadap grafik asset tersebut dengan menggunakan analisa tehnikal lalu **Scalping** sebenarnya adalah salah satu jenis _Trading Style_ dan juga biasanya sering disebut sebagai _"The Fastest Form Of Trading Style"_ yang maksudnya adalah jika scalping ini adalah tehnik trading dengan waktu yang sikat sehingga kita dapat mendapatkan outputnya dalam jangka waktu yang pendek.
+Sebenarnya **[Trading](https://notreiss.netlify.app/blog/apa-sih-itu-trading/)** sendiri sudah sempat saya bahas jadi singkatnya trading adalah suatu aktifitas jual beli sebuah asset tertentu dengan mengandalkan analisa terhadap grafik asset tersebut dengan menggunakan analisa tehnikal lalu **Scalping** sebenarnya adalah salah satu jenis _Trading Style_ dan juga biasanya sering disebut sebagai _"The Fastest Form Of Trading Style"_ yang maksudnya adalah jika scalping ini adalah tehnik trading dengan waktu yang sikat sehingga kita dapat mendapatkan outputnya dalam jangka waktu yang pendek.
 
 #### Perbeda'an Scalping dan Trading
 Menurut saya pribadi terdapat dua perbeda'an yang menjadi pembeda terbesar antara dua hal ini dan wajib difahami sebelum kalian mencoba dua trading style ini.
